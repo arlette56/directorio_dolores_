@@ -1,17 +1,32 @@
-# directorio_dolores
+Directorio Dolorense 🍦🏪
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![hoja 1](./img/hoja%201.png)
+![hoja 2](./img/hoja%202.png)
+![hoja 3](./img/hoja%203.png)
+![hoja 4](./img/hoja%204.png)
+![hoja 5](./img/hoja%205.png)
+![hoja 6](./img/hoja%206.png)
+![hoja 7](./img/hoja%207.png)
+![hoja 8](./img/hoja%208.png)
+![hoja 9](./img/hoja%209.png)
+![hoja 10](./img/hoja%2010.png)
+![hoja 11](./img/hoja%2011.png)
+![hoja 12](./img/hoja%2012.png)
+![hoja 13](./img/hoja%2013.png)
+![hoja 14](./img/hoja%2014.png)
+![hoja 15](./img/hoja%2015.png)
+![hoja 16](./img/hoja%2016.png)
+![hoja 17](./img/hoja%2017.png)
+![hoja 18](./img/hoja%2018.png)
+![hoja 19](./img/hoja%2019.png)
+![hoja 20](./img/hoja%2020.png)
+![hoja 21](./img/hoja%2021.png)
+![hoja 22](./img/hoja%2022.png)
+![hoja 23](./img/hoja%2023.png)
+![hoja 24](./img/hoja%2024.png)
+![hoja 25](./img/hoja%2025.png)
+![hoja 26](./img/hoja%2026.png)
+![hoja 27](./img/hoja%2027.png)
+![hoja 28](./img/hoja%2028.png)
+![hoja 29](./img/hoja%2029.png)
+![hoja 30](./img/hoja%2030.png)
